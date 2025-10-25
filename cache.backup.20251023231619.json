@@ -1,0 +1,34 @@
+{
+  "program": {
+    "candyMachine": "3zeudKH2WVEpwMkf1WJ4DX9uPTr4jrYkDc27h21tKLxy",
+    "candyGuard": "CJVCcd6cNtZsaQrRWQdhinmy4JizFPFf2vXpV4g3hnY7",
+    "candyMachineCreator": "Cc2mX1RjTh45f8gfD4E3GKkWuG6R1K3dnYtpjcufx977",
+    "collectionMint": "JAybd4uSKgJdZXmZ8W8DQt1orSv5dFQ6fJjyLe8y6GmX"
+  },
+  "items": {
+    "-1": {
+      "name": "Haiducii Metaverse Collection",
+      "image_hash": "55c078724e7028c6ef68fa4f8dd53bffd1b44f1c40c320a29840a1cdefc78a28",
+      "image_link": "https://gateway.irys.xyz/APwJCR65EvsaHV2MkyvdoNGEyvb9rMgjbMJWVUdxcbny",
+      "metadata_hash": "7a531d54df1a39455effb9dfe1022d7e46460e8af8638fe1854b224bcacf7a99",
+      "metadata_link": "https://gateway.irys.xyz/DXxfywaCvUZWLLkRFN6GTjKnDZwY7N7Fa2qByuWHGjdA",
+      "onChain": true
+    },
+    "0": {
+      "name": "Haiducii Warrior #0",
+      "image_hash": "5192029cff394510b309f2d63dca5b884e130462bebc2f11045a657e98e9846d",
+      "image_link": "https://gateway.irys.xyz/CKvcUJi7PRXR76RPMeSd3FthSUUtBStUNyqEMRHfPD1j?ext=png",
+      "metadata_hash": "910d436ed68f9652e2cdb45fd2cbbf3684453f4435a7c0b7795fd75a45c10ae0",
+      "metadata_link": "https://gateway.irys.xyz/HTyqrLCCTDxkNULvwRT5rJfQGCGDxqHZrqcH5o8BCmsa",
+      "onChain": true
+    },
+    "1": {
+      "name": "Haiducii Warrior #1",
+      "image_hash": "55c078724e7028c6ef68fa4f8dd53bffd1b44f1c40c320a29840a1cdefc78a28",
+      "image_link": "https://gateway.irys.xyz/H1gnPZ3zYkxvCnvWMqxsC2BgTPbohPtsgmKxMdY3qNtP?ext=png",
+      "metadata_hash": "cc122db8095d670c31dc328760ca48afe959de829ee21e6f7a20ec37f33f493b",
+      "metadata_link": "https://gateway.irys.xyz/EqqUar6JqqhE8RNLV4UTc6QNQebLYLPsuHFvqzCN2Qd1",
+      "onChain": true
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "key": "MetadataV1",
+  "update_authority": "9KNv9N27cUbmydp7A93Ztib8h3493rxjcBsa3eQDMTKP",
+  "mint": "9k8v8YTkw9SLE9VyKFteMxzimrX8U7RLDPfUNGxSkngx",
+  "name": "Haiducii Metaverse Collection\u0000\u0000\u0000",
+  "symbol": "HAIDU\u0000\u0000\u0000\u0000\u0000",
+  "uri": "https://gateway.irys.xyz/8XXAn738gmxQjAaqQo16G2pETeKcsHcP9sPKVJUssPp5\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "seller_fee_basis_points": 500,
+  "creators": null,
+  "primary_sale_happened": false,
+  "is_mutable": true,
+  "edition_nonce": 252,
+  "token_standard": "NonFungible",
+  "collection": null,
+  "uses": null,
+  "collection_details": null,
+  "programmable_config": null
+}

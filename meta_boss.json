@@ -1,0 +1,9 @@
+{
+  "name": "Haiducii Metaverse Collection",
+  "symbol": "HAIDU",
+  "uri": "https://gateway.irys.xyz/38XXAn738gmxQjAaqQo16G2pETeKcsHcP9sPKVJUssPp5",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    { "address": "Gr1xmHduKEP3aGyfnju95DSQRXMWArrFMp4mqzEVSF2F", "share": 100 }
+  ]
+}

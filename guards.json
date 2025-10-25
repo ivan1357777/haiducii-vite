@@ -1,0 +1,25 @@
+{
+  "number": 2,
+  "symbol": "HAIDU",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "creators": [
+    { "address": "6XLUpwb24HRBoi8y895pkRTohL5vSNWomMQdtQzL5hKa", "share": 100 }
+  ],
+  "uploadMethod": "bundlr",
+  "retainAuthority": true,
+  "isSequential": false,
+  "hiddenSettings": null,
+  "maxEditionSupply": 0,
+  "ruleSet": null,
+
+  "guards": {
+    "default": {
+      "solPayment": {
+        "value": 0.01,
+        "destination": "6XLUpwb24HRBoi8y895pkRTohL5vSNWomMQdtQzL5hKa"
+      },
+      "mintLimit": { "id": 1, "limit": 1000 }
+    }
+  }
+}

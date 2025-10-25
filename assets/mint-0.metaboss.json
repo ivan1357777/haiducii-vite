@@ -1,0 +1,15 @@
+{
+  "name": "Haiducii NFT #0",
+  "symbol": "HAIDUCII",
+  "uri": "https://gateway.irys.xyz/oKb2oC7lVa_RNpWuAzQHmD9rVHsxNYvAccqZOWts2vU",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "9KNv9N27cUbmydp7A93Ztib8h3493rxjcBsa3eQDMTKP",
+      "verified": true,
+      "share": 100
+    }
+  ],
+  "primary_sale_happened": false,
+  "is_mutable": true
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Haiducii Warrior #1",
+  "symbol": "HAIDU",
+  "description": "Another fearless Haiducii Warrior NFT forged on Solana Devnet.",
+  "image": "1.png",
+  "attributes": [
+    { "trait_type": "Background", "value": "Red" },
+    { "trait_type": "Character", "value": "Warrior" },
+    { "trait_type": "Weapon", "value": "Bow" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "1.png", "type": "image/png" }
+    ],
+    "creators": [
+      {
+        "address": "6XLUpwb24HRBoi8y895pkRTohL5vSNWomMQdtQzL5hKa",
+        "share": 100
+      }
+    ]
+  },
+  "seller_fee_basis_points": 500
+}

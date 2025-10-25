@@ -1,0 +1,24 @@
+{
+  "key": "MetadataV1",
+  "update_authority": "55RqLoU9usAKoqCLt47yzwpR5DdtDKnmDrhnsr2j5LNH",
+  "mint": "395Y3H91B25AfPcZxcDYJgviGpqrxj3VqTftyQnU52ck",
+  "name": "Haiducii Metaverse Collection",
+  "symbol": "HAIDU",
+  "uri": "https://gateway.irys.xyz/8XXAn738gmxQjAaqQo16G2pETeKcsHcP9sPKVJUssPp5",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "C3VHcrnXfQhMrENUKz4Kn3gnFTaWLQFyp4DZ8PN63g3n",
+      "verified": true,
+      "share": 100
+    }
+  ],
+  "primary_sale_happened": false,
+  "is_mutable": true,
+  "edition_nonce": 255,
+  "token_standard": "NonFungible",
+  "collection": null,
+  "uses": null,
+  "collection_details": null,
+  "programmable_config": null
+}

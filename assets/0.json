@@ -1,0 +1,40 @@
+{
+  "name": "Haiducii Warrior #0",
+  "symbol": "HAIDU",
+  "description": "The Haiducii Warrior Collection — forged in the spirit of Valachia. This is an NFT representing a warrior of the Haiducii Metaverse.",
+  "seller_fee_basis_points": 500,
+  "image": "https://gateway.irys.xyz/CKvcUJi7PRXR76RPMeSd3FthSUUtBStUNyqEMRHfPD1j?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Power",
+      "value": "Valor"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Valachia"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.irys.xyz/CKvcUJi7PRXR76RPMeSd3FthSUUtBStUNyqEMRHfPD1j?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Gr1xmHduKEP3aGyfnju95DSQRXMWArrFMp4mqzEVSF2F",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Haiducii Warrior",
+    "family": "Haiducii Metaverse"
+  }
+}

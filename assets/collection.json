@@ -1,0 +1,25 @@
+{
+  "name": "Haiducii Metaverse Collection",
+  "symbol": "HAIDU",
+  "description": "The official collection of Haiducii Metaverse NFTs.",
+  "image": "https://gateway.irys.xyz/APwJCR65EvsaHV2MkyvdoNGEyvb9rMgjbMJWVUdxcbny",
+  "seller_fee_basis_points": 500,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.irys.xyz/APwJCR65EvsaHV2MkyvdoNGEyvb9rMgjbMJWVUdxcbny",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "9KNv9N27cUbmydp7A93Ztib8h3493rxjcBsa3eQDMTKP",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  },
+  "isCollection": true,
+  "uri": "https://gateway.irys.xyz/8XXAn738gmxQjAaqQo16G2pETeKcsHcP9sPKVJUssPp5"
+}

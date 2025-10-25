@@ -1,0 +1,17 @@
+{
+    "name": "Haiducii Collection",
+    "symbol": "HAIDU",
+    "description": "Collection for Haiducii Warriors on devnet.",
+    "image": "https://placehold.co/600x600.png",
+    "seller_fee_basis_points": 0,
+    "external_url": "https://example.com",
+    "properties": {
+      "files": [
+        { "uri": "https://placehold.co/600x600.png", "type": "image/png" }
+      ],
+      "creators": [
+        { "address": "3fBHbMdcBTAHBs9P8XhHRZHeoMsReM4Z4JL572iLFpqq", "share": 100 }
+      ]
+    }
+  }
+  
