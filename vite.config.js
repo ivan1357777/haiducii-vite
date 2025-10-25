@@ -4,6 +4,7 @@ import react from '@vitejs/plugin-react';
 import inject from '@rollup/plugin-inject';
 
 export default defineConfig({
+  base: mode === 'production' ? '/haiducii-vite/' : '/',
   plugins: [
     react(),
     inject({
