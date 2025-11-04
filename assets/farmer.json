@@ -1,0 +1,18 @@
+{
+    "name": "Haiducii Farmer #1",
+    "symbol": "HAIDU",
+    "description": "A hardy Farmer of Valachia—plant, harvest, and cook meals that keep haiducs alive. Mint is available.",
+    "image": "farmer.jpeg",
+    "attributes": [
+      { "trait_type": "Background", "value": "Field Green" },
+      { "trait_type": "Role", "value": "Farmer" },
+      { "trait_type": "Tool", "value": "Sickle" },
+      { "trait_type": "Crop", "value": "Wheat" },
+      { "trait_type": "Mint", "value": "Available" }
+    ],
+    "properties": {
+      "files": [{ "uri": "farmer.jpeg", "type": "image/jpeg" }]
+    },
+    "seller_fee_basis_points": 500
+  }
+  
